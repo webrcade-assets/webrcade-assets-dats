@@ -2614,3 +2614,11 @@ game (
 	description "Ys III - Wanderers from Ys (NEC) (USA)"
 	rom ( name "Ys III - Wanderers from Ys (1991)(NEC)(US).img" size 715929984 crc 8BC325BE md5 463A7926722A496663D92E9C9ED48031 sha1 261C7B832F391AB5C98182FF946268E0FA32B1C1 )
 )
+
+game (
+	name "Ys IV - The Dawn of Ys (Japan) (Rev 4)"
+	description "Ys IV - The Dawn of Ys (Japan) (Rev 4)"
+	region "Japan"
+	serial "HCD3051"
+	rom ( name "Ys IV - The Dawn of Ys (Japan) (Rev 4) (Track 01).bin" size 7916832 crc 22144D0F md5 AD1067D0BCC2FFEEA540D3B985C51188 sha1 3B472F5E80BBF8259E09F8E4F547567BDDB02490 serial "HCD3051" )
+)
