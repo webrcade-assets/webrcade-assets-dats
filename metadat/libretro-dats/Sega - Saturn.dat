@@ -2884,3 +2884,592 @@ game (
 	description "Zen Nihon Pro Wres Featuring Virtua v1.000 (Japan)"
 	rom ( name "Zen Nihon Pro Wres Featuring Virtua v1.000 (1997)(Sega)(JP)(Track 1 of 2)[!].iso" size 490553344 crc 91EB116B md5 8E471C39EF303144855FA12255B795ED sha1 D3D06F348C5B102FA72F7DEF14320F4BD38C47AA )
 )
+
+game (
+	name "3D Baseball (USA)"
+	region "USA"
+	serial "T-15906H"
+	rom ( name "3D Baseball (USA) (Track 1).bin" size 345158352 crc E03A593A md5 5F33157EFD8A73DE6612A852CF1BA147 sha1 B79890F234721DAC70FFAEC83EC8715F0F183C14 serial "T-15906H" )
+)
+game (
+	name "Albert Odyssey - Legend of Eldean (USA)"
+	region "USA"
+	serial "T-12705H"
+	rom ( name "Albert Odyssey - Legend of Eldean (USA) (Track 01).bin" size 253752576 crc D4A3AFF5 md5 F517B2586E1C4E58CC2F3191D3953B3D sha1 A42123DFE1D82DED68268F35F167729D272C93FE serial "T-12705H" )
+)
+game (
+	name "Astal (USA) (2S)"
+	region "USA"
+	serial "81019"
+	rom ( name "Astal (USA) (2S) (Track 1).bin" size 615464304 crc BDBD50F7 md5 B89C9CC616EA75ADB44314BDD74E2121 sha1 7C287746FC175E9CCA51A4150084F877357443B7 serial "81019" )
+)
+game (
+	name "Batsugun (Japan)"
+	region "Japan"
+	serial "T-20605G"
+	rom ( name "Batsugun (Japan) (Track 01).bin" size 12166896 crc 4FFF8459 md5 F926CEBCC89BC05F85133987C2DDE2DA sha1 AE690DA0EDD82927FB2100BF9664656F0E492DD7 serial "T-20605G" )
+)
+game (
+	name "Battle Garegga (Japan)"
+	region "Japan"
+	serial "T-10627G"
+	rom ( name "Battle Garegga (Japan) (Track 01).bin" size 17322480 crc 0D28AB46 md5 B0C6D96FE425AC8468F9EA0EFF44143D sha1 D7EE834B01770945BEC7D240B7F19D1C721E4B29 serial "T-10627G" )
+)
+game (
+	name "Blast Wind (Japan)"
+	region "Japan"
+	serial "T-1810G"
+	rom ( name "Blast Wind (Japan) (Track 01).bin" size 4774560 crc 6C91FA72 md5 D9F438B8E4EB6B561DA8BB24941106CC sha1 D5AC10BCF50D4D8D23BFC129BA8F7F0DD41616B2 serial "T-1810G" )
+)
+game (
+	name "Blazing Heroes (USA)"
+	region "USA"
+	serial "81303"
+	rom ( name "Blazing Heroes (USA) (Track 1).bin" size 179645760 crc A9026495 md5 1B672DC4EC5AC44EC7FEA6DFB0344311 sha1 6ECE3DB5C631DE0C8CDF627F4E9078B3871F2FD2 serial "81303" )
+)
+game (
+	name "Bubble Symphony (Japan)"
+	region "Japan"
+	serial "T-19905G"
+	rom ( name "Bubble Symphony (Japan) (Track 1).bin" size 522101664 crc C904B5FB md5 FE7CAFE04C6F362B82F90119DC555816 sha1 07A0C76A54BAE69188B7848B22C7C6D32D1F9F8F serial "T-19905G" )
+)
+game (
+	name "Bulk Slash (Japan)"
+	region "Japan"
+	serial "T-14310G"
+	rom ( name "Bulk Slash (Japan) (Track 1).bin" size 158496576 crc 372052C7 md5 F392D1F214401D8BA7377FBF9866A87B sha1 4A86915C45A914E54E7B610BA9BFA98D3A73C26F serial "T-14310G" )
+)
+game (
+	name "Capcom Generation - Dai-2-shuu Makai to Kishi (Japan)"
+	region "Japan"
+	serial "T-1233G"
+	rom ( name "Capcom Generation - Dai-2-shuu Makai to Kishi (Japan) (Track 1).bin" size 400886640 crc 10C8C92F md5 A06FD8C86A9D8F4EE668F17FD6F688D4 sha1 0C004E79175C29109CC613BC33AD0665CD82CF84 serial "T-1233G" )
+)
+game (
+	name "Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan)"
+	region "Japan"
+	serial "T-1236G"
+	rom ( name "Capcom Generation - Dai-5-shuu Kakutouka-tachi (Japan) (Track 1).bin" size 536112528 crc F4C9B8FF md5 0F94159AB402AE26B3560E5BDBDE19F3 sha1 E6C2E44FF2F6F01C69B72460F803C32807ABEF0F serial "T-1236G" )
+)
+game (
+	name "Christmas Nights into Dreams... (USA)"
+	region "USA"
+	serial "81067"
+	rom ( name "Christmas Nights into Dreams... (USA) (Track 02).bin" size 264480048 crc 2FD6D7D0 md5 D556C81709DFE649DCC07C2596393EA6 sha1 63ED0B8BC83EB3B7EE14EB054BEDBC8AB4C9BB8C serial "81067" )
+)
+game (
+	name "Congo - The Movie - The Lost City of Zinj (USA)"
+	region "USA"
+	serial "81010"
+	rom ( name "Congo - The Movie - The Lost City of Zinj (USA) (Track 01).bin" size 84011088 crc F9660C9F md5 7218EE58238E60244753CC9D119CCF90 sha1 0DCAF96BB5211E94209269E4B4E5DAED907F0739 serial "81010" )
+)
+game (
+	name "Contra - Legacy of War (USA)"
+	region "USA"
+	serial "T-9507H"
+	rom ( name "Contra - Legacy of War (USA) (Track 01).bin" size 43566096 crc 725C0D33 md5 D205B1F727FB07945B5899C2169394C7 sha1 71249CFC652C6A97AD21D7245101D6EB714E9E35 serial "T-9507H" )
+)
+game (
+	name "Corpse Killer - Graveyard Edition (USA) (Disc 1) (R)"
+	region "USA"
+	serial "T-16201H"
+	rom ( name "Corpse Killer - Graveyard Edition (USA) (Disc 1) (R) (Track 1).bin" size 647018736 crc 4ADCD3EC md5 37DAB9013DF1AED8D6EBA58F793F7ABE sha1 44735BE51F0E3E0CBC3ABB04B7DA99168895324E serial "T-16201H" )
+)
+game (
+	name "Corpse Killer - Graveyard Edition (USA) (Disc 2)"
+	region "USA"
+	serial "T-16201H"
+	rom ( name "Corpse Killer - Graveyard Edition (USA) (Disc 2) (Track 1).bin" size 635162304 crc 592FC71F md5 D162F3683A1B259772446166500B53BA sha1 FC6CD0A76B0CB16A9570F1C3B5CD79D93C76CA5A serial "T-16201H" )
+)
+game (
+	name "Cyberbots - Fullmetal Madness (Japan) (2M)"
+	region "Japan"
+	serial "T-1217G"
+	rom ( name "Cyberbots - Fullmetal Madness (Japan) (2M) (Track 01).bin" size 103001136 crc 86C3A4B3 md5 161DB5CF79A46EED7C6AEB57ACEDCD8D sha1 699B6BE716BA29773B7503F4B815FC9B97CFA848 serial "T-1217G" )
+)
+game (
+	name "DoDonPachi (Japan)"
+	region "Japan"
+	serial "T-14419G"
+	rom ( name "DoDonPachi (Japan) (Track 01).bin" size 27254976 crc 5763B66C md5 52A1DB1F0A2F60B8DC19E96A0EF39203 sha1 3DBFC75BA3CAC58B06D1185BF9D804EC17C9CAD7 serial "T-14419G" )
+)
+game (
+	name "Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom)"
+	region "Japan"
+	serial "T-1224G"
+	rom ( name "Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom) (Track 01).bin" size 33445440 crc 710D92D8 md5 3017FBD6C246328F15383BADB80645DD sha1 1DC24AD4F442CA14C33EDB520089C31C5C7F3640 serial "T-1224G" )
+)
+game (
+	name "Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara)"
+	region "Japan"
+	serial "T-1224G"
+	rom ( name "Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara) (Track 01).bin" size 60135936 crc 00BFF107 md5 3BA5B992FC6C061A7D0F9E025E2EE944 sha1 6989ED54BFE0611D1D66D355AB0933E96DAFEBE9 serial "T-1224G" )
+)
+game (
+	name "Elevator Action^2 - Returns (Japan)"
+	region "Japan"
+	serial "T-19903G"
+	rom ( name "Elevator Action^2 - Returns (Japan) (Track 01).bin" size 12211584 crc 52A20F10 md5 B3EF66F9CBC8B007560C4A5D11C69AED sha1 A386344AC4167479DD82068B04200DEC4A9E275A serial "T-19903G" )
+)
+game (
+	name "Falcom Classics (Japan) (Disc 1) (Game Disc)"
+	region "Japan"
+	serial "T-31502G"
+	rom ( name "Falcom Classics (Japan) (Disc 1) (Game Disc) (Track 01).bin" size 24263232 crc 2D079F77 md5 287ADC660E0D65E5AE3600157DB6C9D5 sha1 F400588A0BE305A36583846A814CC0631EDE0FA6 serial "T-31502G" )
+)
+game (
+	name "Falcom Classics II (Japan)"
+	region "Japan"
+	serial "T-31505G"
+	rom ( name "Falcom Classics II (Japan) (Track 1).bin" size 561859872 crc D1462E35 md5 F318CEAB24508302E15DF193F3969373 sha1 339030BD0FE482F8553EF46211A31E40FC4F5957 serial "T-31505G" )
+)
+game (
+	name "Final Fight Revenge (Japan)"
+	region "Japan"
+	serial "T-1248G"
+	rom ( name "Final Fight Revenge (Japan) (Track 01).bin" size 27412560 crc 67CFD79A md5 1456B8FE3792B0CF19197A97899BB137 sha1 9ABF2C478957D027BAE69D3A8E6384AEB1D30D08 serial "T-1248G" )
+)
+game (
+	name "Game Tengoku - The Game Paradise! (Japan)"
+	region "Japan"
+	serial "T-5711G"
+	rom ( name "Game Tengoku - The Game Paradise! (Japan) (Track 01).bin" size 167888112 crc D1EA68AA md5 A1DE86C70A74DA0FEAA459F89236281F sha1 F2DD95AD8EA69CC50409E003ABCEE8142DEDAC26 serial "T-5711G" )
+)
+game (
+	name "Gensou Suikoden (Japan)"
+	region "Japan"
+	serial "T-9525G"
+	rom ( name "Gensou Suikoden (Japan) (Track 1).bin" size 278448576 crc 1309C0E2 md5 DAA7FA4D491533D1C77E68191A6EF78A sha1 B9C598F9DEC783364DDDE01AF1A6AEA5363BAE27 serial "T-9525G" )
+)
+game (
+	name "Grandia (Japan) (Disc 1) (4M)"
+	region "Japan"
+	serial "T-4507G"
+	rom ( name "Grandia (Japan) (Disc 1) (4M) (Track 1).bin" size 618496032 crc 8FF62B58 md5 57E71F8AA1B38824C512A431F6B40DE0 sha1 6AC02A31C36EACA966B1DC01657B097E078009D3 serial "T-4507G" )
+)
+game (
+	name "Guardian Force (Japan)"
+	region "Japan"
+	serial "T-9905G"
+	rom ( name "Guardian Force (Japan) (Track 1).bin" size 21076272 crc B224C50C md5 BCFC800D2697F324F4092D0F3C0B1286 sha1 95DAE668CF65BC2A4951106DA31435015E1EED51 serial "T-9905G" )
+)
+game (
+	name "Gungriffon II (Japan)"
+	region "Japan"
+	serial "T-4510G"
+	rom ( name "Gungriffon II (Japan) (Track 01).bin" size 84255696 crc DEB1D5D9 md5 7A99D7EC075940A750A792FF8AAF541A sha1 4A9B2612D5A1642A7ADCE0228B3B1B9E88D73B82 serial "T-4510G" )
+)
+game (
+	name "Heir of Zendor - The Legend and the Land (USA)"
+	region "USA"
+	serial "T-7605H"
+	rom ( name "Heir of Zendor - The Legend and the Land (USA) (Track 01).bin" size 410073552 crc 9FCFAB32 md5 C3CCDBBFC5321C2DA43EF3BE4CFCFD1F sha1 51F8C7B4825EF5336731E6EA0432AFEAC1F625DC serial "T-7605H" )
+)
+game (
+	name "Herc's Adventures (USA)"
+	region "USA"
+	serial "T-23001H"
+	rom ( name "Herc's Adventures (USA) (RE) (Track 01).bin" size 297763200 crc AE2DD890 md5 1C82CAC264E398D73AE19B7BE28DBA3F sha1 0EE0DD895064C77531397A1A3C932604F8C8D35A serial "T-23001H" )
+)
+game (
+	name "Horde, The (USA)"
+	region "USA"
+	serial "T-15909H"
+	rom ( name "Horde, The (USA) (Track 1).bin" size 636030192 crc 2DB68E12 md5 A8C0D81FF56AEF127E76F17C88C8E9ED sha1 F2ACB4263324F38CB3D0D9F8A7431933F9B06CD6 serial "T-15909H" )
+)
+game (
+	name "Hyper Duel (Japan)"
+	region "Japan"
+	serial "T-1809G"
+	rom ( name "Hyper Duel (Japan) (Track 01).bin" size 18183312 crc 905DC1BA md5 5847A8374C393C24393084364E87E2A7 sha1 EE1377DABF6473AADD32A69D660FA71CEF876C5C serial "T-1809G" )
+)
+game (
+	name "Keio Flying Squadron 2 (Europe)"
+	region "Europe"
+	serial "T-6008H-50"
+	rom ( name "Keio Flying Squadron 2 (Europe) (Track 01).bin" size 163979088 crc C5EEDCCF md5 C0C8128C8A34DA73E6847936D181AE9C sha1 E58EC445AD744075354E61B4CA629E5551361EB5 serial "T-6008H-50" )
+)
+game (
+	name "Langrisser III (Japan) (Rev A) (5M)"
+	region "Japan"
+	serial "T-2510G"
+	rom ( name "Langrisser III (Japan) (Rev A) (5M) (Track 02).bin" size 132457584 crc 3E268C2D md5 A02FC8760A94E21CAA20211E108CC16F sha1 12481B37A5363E92182FEDAB4314FA74444CB76C serial "T-2510G" )
+)
+game (
+	name "Langrisser IV (Japan) (1M, 3M)"
+	region "Japan"
+	serial "T-2505G"
+	rom ( name "Langrisser IV (Japan) (1M, 3M) (Track 2).bin" size 353943072 crc 86CB7B8B md5 2A1DB44FB7CA2F2CE979DC53B42BD51C sha1 74DE68F58CAF427575C3B12053941907E885E47E serial "T-2505G" )
+)
+game (
+	name "Langrisser V - The End of Legend (Japan) (3M)"
+	region "Japan"
+	serial "T-2513G"
+	rom ( name "Langrisser V - The End of Legend (Japan) (3M) (Track 2).bin" size 270917472 crc A1593A73 md5 67E39925AEAA8B914A819ACEBA2394E5 sha1 324EDB78E9BF070DDED9F1473D349998EBE3A66A serial "T-2513G" )
+)
+game (
+	name "Layer Section (Japan) (6M)"
+	region "Japan"
+	serial "T-1101G"
+	rom ( name "Layer Section (Japan) (6M) (Track 01).bin" size 16779168 crc 07E9D8DA md5 4CB2552702A5767BE5B791EFAD43762D sha1 D90EF75E7A8D0FF60FCEB58D4E534308B85391EA serial "T-1101G" )
+)
+game (
+	name "Layer Section II (Japan)"
+	region "Japan"
+	serial "T-26409G"
+	rom ( name "Layer Section II (Japan) (Track 01).bin" size 96671904 crc 9429A3A8 md5 C806A73912ED6107E076E836F1874123 sha1 CD7BEC3D9003BD07427C857B05382C0CA150771D serial "T-26409G" )
+)
+game (
+	name "Lunacy (USA) (Disc 1)"
+	region "USA"
+	serial "T-14403H"
+	rom ( name "Lunacy (USA) (Disc 1) (Track 1).bin" size 656064528 crc DA286FA6 md5 8AE8E0EC0076D54CBBD94B02CF259A92 sha1 BFCFA141C4A3EBE6C7B26C417A7E7BD5DDDA47DF serial "T-14403H" )
+)
+game (
+	name "Lunacy (USA) (Disc 2)"
+	region "USA"
+	serial "T-14403H"
+	rom ( name "Lunacy (USA) (Disc 2) (Track 1).bin" size 664338864 crc 2D373F4C md5 0887097A1CB2AAA3BE624251B33C0A91 sha1 617C670FD73D250FE13E68CCC7B52285877D4920 serial "T-14403H" )
+)
+game (
+	name "Lunar - Silver Star Story (Japan)"
+	region "Japan"
+	serial "T-27901G"
+	rom ( name "Lunar - Silver Star Story (Japan) (Track 1).bin" size 620977392 crc A2842E57 md5 2680FE52010346471B4AB3D9B065B803 sha1 6CDAF84CB005605D2961A85BD17E469B1758AFBD serial "T-27901G" )
+)
+game (
+	name "Lunar 2 - Eternal Blue (Japan) (Disc 1)"
+	region "Japan"
+	serial "T-27906G"
+	rom ( name "Lunar 2 - Eternal Blue (Japan) (Disc 1) (Track 1).bin" size 653957136 crc 49D70180 md5 07136C4431147A54F12A15291102A3EF sha1 135C69C600DAC940CD542A3436CB26A72A0929EC serial "T-27906G" )
+)
+game (
+	name "Magic Knight Rayearth (USA)"
+	region "USA"
+	serial "T-12706H"
+	rom ( name "Magic Knight Rayearth (USA) (Track 1).bin" size 626354064 crc 37E7EF4D md5 8756DC0B21BD5CC606F5049C2FABB56D sha1 D5BC960CA5846342E07D0168B776E2AA3743B44C serial "T-12706H" )
+)
+game (
+	name "Magical Night Dreams - Cotton 2 (Japan)"
+	region "Japan"
+	serial "T-9904G"
+	rom ( name "Magical Night Dreams - Cotton 2 (Japan) (Track 1).bin" size 37951872 crc F110AB6B md5 E3D6C7826C57CED4565EF3EF88BFD0B1 sha1 25366440F350EC6620E4F78CE61774238766CAEB serial "T-9904G" )
+)
+game (
+	name "Magical Night Dreams - Cotton Boomerang (Japan)"
+	region "Japan"
+	serial "T-9906G"
+	rom ( name "Magical Night Dreams - Cotton Boomerang (Japan) (Track 1).bin" size 34948368 crc ABC1DEDC md5 B84B0A35D3E4DEC786862CB12E7A36BD sha1 67A1B71253D02A099C745A398ECF5BBFFF3AF77E serial "T-9906G" )
+)
+game (
+	name "Marvel Super Heroes vs. Street Fighter (Japan)"
+	region "Japan"
+	serial "T-1238G"
+	rom ( name "Marvel Super Heroes vs. Street Fighter (Japan) (Track 01).bin" size 452397792 crc D43CCEA7 md5 C3A959C587EFA936C6F7D3E8FB77D1C5 sha1 E23C88B1C181AC66DC05F65527B8BC6E3ECCE39E serial "T-1238G" )
+)
+game (
+	name "Mega Man 8 (USA)"
+	region "USA"
+	serial "T-1216H"
+	rom ( name "Mega Man 8 (USA) (Track 1).bin" size 296361408 crc 4EEA7AE5 md5 A4D575CD681B7D7C88B45D639ED7FFB7 sha1 047182C8F4F5ACE8B4A87D6F55D24A4A44460630 serial "T-1216H" )
+)
+game (
+	name "Mega Man X3 (Europe)"
+	region "Europe"
+	serial "T-7029H-50"
+	rom ( name "Mega Man X3 (Europe) (Track 01).bin" size 199668336 crc B4D040BE md5 444ABF55ADBAC1474A1021B249441154 sha1 F99EBE09D5AE5968823E13AC8BFB8A09397B2A28 serial "T-7029H-50" )
+)
+game (
+	name "Mega Man X4 (USA)"
+	region "USA"
+	serial "T-1219H"
+	rom ( name "Mega Man X4 (USA) (Track 1).bin" size 528550848 crc 4936B3B9 md5 751AA87F920A21C77F0FCBBFD24B5319 sha1 064D5EE316034A0E6968CED1932AF7D36E0CFFC1 serial "T-1219H" )
+)
+game (
+	name "Metal Black (Japan) (3M)"
+	region "Japan"
+	serial "T-19909G"
+	rom ( name "Metal Black (Japan) (3M) (Track 01).bin" size 5623632 crc 65069511 md5 50AA092277C6D05830D0BB9E8F644F27 sha1 0CD3C65B44CB511257230C30EA08C010B36585B6 serial "T-19909G" )
+)
+game (
+	name "Metal Slug - Super Vehicle-001 (Japan)"
+	region "Japan"
+	serial "T-3111G"
+	rom ( name "Metal Slug - Super Vehicle-001 (Japan) (Track 01).bin" size 69026496 crc 7EDE503D md5 C824837621E6A67A5CBED778DFF7CF3D sha1 F9A228FEE1B94AA8073DC6FE19CB48A1E63E7389 serial "T-3111G" )
+)
+game (
+	name "Mr. Bones (USA) (Disc 1)"
+	region "USA"
+	serial "81016"
+	rom ( name "Mr. Bones (USA) (Disc 1) (Track 01).bin" size 342317136 crc 9E540FD2 md5 3A96D13C14B329946C1EAF5EFBE03EAB sha1 B179ECD17CE133925F598C0734FCCDF2B9E02DB5 serial "81016" )
+)
+game (
+	name "Mr. Bones (USA) (Disc 2)"
+	region "USA"
+	serial "81016"
+	rom ( name "Mr. Bones (USA) (Disc 2) (Track 01).bin" size 300442128 crc DEE00923 md5 B1AEBB2ED25FBC028195A0406C51FB9A sha1 3E03182FAB54418F3E5616DF4144531CA447320D serial "81016" )
+)
+game (
+	name "Night Striker S (Japan)"
+	region "Japan"
+	serial "T-19901G"
+	rom ( name "Night Striker S (Japan) (Track 01).bin" size 49356720 crc ADEEF67C md5 0F79D1A55CE28042431983A3F9574162 sha1 D3E1F7B394CDFE9B8CB1D95C2E25245523A02049 serial "T-19901G" )
+)
+game (
+	name "Pandemonium! (USA)"
+	region "USA"
+	serial "T-15914H"
+	rom ( name "Pandemonium! (USA) (Track 1).bin" size 84319200 crc AAA09513 md5 B023C85FE9A2B84D0AA394587B7F59E1 sha1 581460783E6BA7B7EB40F5E3AD0654775540938C serial "T-15914H" )
+)
+game (
+	name "Panzer Dragoon Saga (USA) (Disc 1)"
+	region "USA"
+	serial "81307"
+	rom ( name "Panzer Dragoon Saga (USA) (Disc 1) (Track 1).bin" size 645501696 crc 37481032 md5 0EC7992F3C06916B1260C465BEEC60D5 sha1 BDDD53E1877E733B0117A79BA811A4701AC2E41D serial "81307" )
+)
+game (
+	name "Panzer Dragoon Saga (USA) (Disc 2)"
+	region "USA"
+	serial "81307"
+	rom ( name "Panzer Dragoon Saga (USA) (Disc 2) (Track 1).bin" size 559354992 crc 4B175909 md5 8D3CA4799ED3FBA24623AF15B86F582D sha1 50A7CB8C5EC1BC7C586E6385CD8AC0694CD970EB serial "81307" )
+)
+game (
+	name "Panzer Dragoon Saga (USA) (Disc 3)"
+	region "USA"
+	serial "81307"
+	rom ( name "Panzer Dragoon Saga (USA) (Disc 3) (Track 1).bin" size 632248176 crc 3D113C52 md5 EAADE108E99CDEFC93D391E7E00B04BD sha1 A9F73785A671D9B3857711DE27635F0C9E77B195 serial "81307" )
+)
+game (
+	name "Panzer Dragoon Saga (USA) (Disc 4)"
+	region "USA"
+	serial "81307"
+	rom ( name "Panzer Dragoon Saga (USA) (Disc 4) (Track 1).bin" size 582660960 crc 266BF5AE md5 665E16AB6958F3B045DFC010C7F2146B sha1 11A8F4E8786CD85F1ADC1AA042B54B3599BE1308 serial "81307" )
+)
+game (
+	name "Pocket Fighter (Japan)"
+	region "Japan"
+	serial "T-1230G"
+	rom ( name "Pocket Fighter (Japan) (Track 01).bin" size 77674800 crc 2A33F282 md5 5AF6A375398FBC76EB88C24E929F0EA3 sha1 92ED2F6D205F4FDFE6B3DA2935D1A3B5CF7B5CE2 serial "T-1230G" )
+)
+game (
+	name "Policenauts (Japan) (Disc 1)"
+	region "Japan"
+	serial "T-9510G"
+	rom ( name "Policenauts (Japan) (Disc 1) (Track 1).bin" size 524338416 crc 40559040 md5 D78318EFF2D44189F14DFCB3B4859333 sha1 526BCD0FF248866F5D8C829C6C186F6C1A9C2405 serial "T-9510G" )
+)
+game (
+	name "Policenauts (Japan) (Disc 2)"
+	region "Japan"
+	serial "T-9510G"
+	rom ( name "Policenauts (Japan) (Disc 2) (Track 1).bin" size 560211120 crc 5AE082F4 md5 657ECC922D2B0912476A387BD039EA2C sha1 20EDAC717F607B1E0A10443F3480C96ACD725450 serial "T-9510G" )
+)
+game (
+	name "Policenauts (Japan) (Disc 3)"
+	region "Japan"
+	serial "T-9510G"
+	rom ( name "Policenauts (Japan) (Disc 3) (Track 1).bin" size 513533328 crc DD3689B8 md5 90C6A9161D47C1C0244ADFEE57F89323 sha1 7C837F0A3A1C12BA430C0BF4FEEFABF518629220 serial "T-9510G" )
+)
+game (
+	name "Powerslave (USA)"
+	region "USA"
+	serial "T-13205H"
+	rom ( name "Powerslave (USA) (Track 01).bin" size 194075280 crc 6386FF15 md5 F07FC1A5A073337983940DA5C86D9762 sha1 0962EA2AE2F43635E7A73936712412D18B407F46 serial "T-13205H" )
+)
+game (
+	name "Princess Crown (Japan) (1M)"
+	region "Japan"
+	serial "T-14418G"
+	rom ( name "Princess Crown (Japan) (1M) (Track 01).bin" size 87339168 crc 005AFFAF md5 372041B64F903FB8E2049ED6561F91A9 sha1 1C7B9C750B20B6D2D177B429568A05E8A94D0806 serial "T-14418G" )
+)
+game (
+	name "Princess Maker 2 (Japan) (1M)"
+	region "Japan"
+	serial "T-5201G"
+	rom ( name "Princess Maker 2 (Japan) (1M) (Track 1).bin" size 311320128 crc 97BE3213 md5 323D3A2C968DE5FD57E284CE4EDB9895 sha1 40EDF1FC575022CDE322566CB85B7B782C9359FC serial "T-5201G" )
+)
+game (
+	name "Psychotron, The (Japan)"
+	region "Japan"
+	serial "T-18503G"
+	rom ( name "Psychotron, The (Japan) (Track 1).bin" size 545753376 crc 4927225C md5 483498A0E34096386599A88FE9B75BB8 sha1 D03BFA745A62FA25555CAB1124275C3CCE43F060 serial "T-18503G" )
+)
+game (
+	name "Pu-Li-Ru-La (Japan)"
+	region "Japan"
+	serial "T-26106G"
+	rom ( name "Arcade Gears Vol. 1 - Pu-Li-Ru-La (Japan) (Track 01).bin" size 9899568 crc 7E9236F7 md5 FF6C57F7D4CF8BF1EADC07991EC02EA6 sha1 C42E57603A5C6A55D8C0362153566D10B79F8709 serial "T-26106G" )
+)
+game (
+	name "Return to Zork (Japan) (1M)"
+	region "Japan"
+	serial "T-23401G"
+	rom ( name "Return to Zork (Japan) (1M) (Track 1).bin" size 616964880 crc 2AFA4616 md5 3D645AE95C045773682EF10607901D57 sha1 FFAA4C7C17E7D519B44725EC1150425FF1A62AB6 serial "T-23401G" )
+)
+game (
+	name "Salamander Deluxe Pack Plus (Japan)"
+	region "Japan"
+	serial "T-9520G"
+	rom ( name "Salamander Deluxe Pack Plus (Japan) (Track 1).bin" size 504085344 crc 7315B0C4 md5 169D675542C5515E1A04241419CF4D73 sha1 121871F6EBD47C87CEE56F8069EE58E28368FB7E serial "T-9520G" )
+)
+game (
+	name "Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1)"
+	region "Japan"
+	serial "T-14410G"
+	rom ( name "Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1) (Track 01).bin" size 446564832 crc C4028F9C md5 E9F7074030F7146B873697B60D1566F2 sha1 55A612E7058F0B6C9F7FE405BC08833D3567D67F serial "T-14410G" )
+)
+game (
+	name "Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition)"
+	region "Japan"
+	serial "T-14410G"
+	rom ( name "Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition) (Track 1).bin" size 497043456 crc 78B98279 md5 7D3F8FCA32267D989FB885E6BFEEB894 sha1 25A26DEE9D8973BC4428010549E647CC7F8FD541 serial "T-14410G" )
+)
+game (
+	name "Shadows of the Tusk (Japan)"
+	region "Japan"
+	serial "T-14319G"
+	rom ( name "Shadows of the Tusk (Japan) (Track 1).bin" size 66552192 crc 5A63852E md5 16B7F7E39F8FABBBEADBF714B2D72945 sha1 29040D015314F76C71A1A790E0EDF99C7468586A serial "T-14319G" )
+)
+game (
+	name "Shining Force III (USA)"
+	region "USA"
+	serial "81383"
+	rom ( name "Shining Force III (USA) (Track 1).bin" size 245934528 crc F5DC8703 md5 51CC5502A3D6192CDE39E9F4001EC701 sha1 9B1033304091B3DEA7C2FD6D88914A1C7D0C6727 serial "81383" )
+)
+game (
+	name "Shining Force III - Scenario 2 - Nerawareta Miko (Japan)"
+	region "Japan"
+	serial "GS-9188"
+	rom ( name "Shining Force III - Scenario 2 - Nerawareta Miko (Japan) (Track 1).bin" size 307023024 crc D88476EE md5 EF890D2F6ED900EC8CC96E83A7B1C41D sha1 82C157DBAD2F50BD8D1FD9B417233221AB9FD8C8 serial "GS-9188" )
+)
+game (
+	name "Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan)"
+	region "Japan"
+	serial "GS-9203"
+	rom ( name "Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan) (Track 1).bin" size 508594128 crc E6F03EAB md5 455C90108D57B4570CCA42ADB221BFBD sha1 6A2646030FF74A98B666726B78003E6505D24285 serial "GS-9203" )
+)
+game (
+	name "Shining the Holy Ark (USA)"
+	region "USA"
+	serial "81306"
+	rom ( name "Shining the Holy Ark (USA) (Track 1).bin" size 257661600 crc F995D006 md5 06FEA2FFC7F67B4547606889DB515504 sha1 F55FD6CBEA76DBF62A4D973200FA62FC49105936 serial "81306" )
+)
+game (
+	name "Shinobi Legions (USA)"
+	region "USA"
+	serial "T-2301H"
+	rom ( name "Shinobi Legions (USA) (Track 1).bin" size 442669920 crc 97E58FE6 md5 AFA37995B77346455A66361C65197546 sha1 F0F32ED1779D67025EA49EDE080B111810C10126 serial "T-2301H" )
+)
+game (
+	name "Shippuu Mahou Daisakusen - Kingdom-Grandprix (Japan)"
+	region "Japan"
+	serial "T-18506G"
+	rom ( name "Shippuu Mahou Daisakusen - Kingdom-Grandprix (Japan) (Track 01).bin" size 20979840 crc C13CD74D md5 3942FE56E1E97BF01677C5DF1EE5FBD1 sha1 54F34928821758D37314B8FB286BDF6943518E00 serial "T-18506G" )
+)
+game (
+	name "Silhouette Mirage (Japan)"
+	region "Japan"
+	serial "T-32901G"
+	rom ( name "Silhouette Mirage (Japan) (Track 01).bin" size 144600960 crc D760174C md5 BCCBE33330BB2728E3FC5FD94B4DBEBC sha1 DC46CCFBEE8CD8F85AD35F1838A65C11E7EBAD36 serial "T-32901G" )
+)
+game (
+	name "Skeleton Warriors (USA)"
+	region "USA"
+	serial "T-13204-H"
+	rom ( name "Skeleton Warriors (USA) (Track 01).bin" size 122536848 crc 815BBA36 md5 803B191C587F911E61F16B212364F5B4 sha1 53AB6941BA373BAF88A760CC3A824B9F9542E7F2 serial "T-13204-H" )
+)
+game (
+	name "Snatcher (Japan)"
+	region "Japan"
+	serial "T-9508G"
+	rom ( name "Snatcher (Japan) (Track 1).bin" size 479149440 crc 61C1C029 md5 FD6C0438987FCBC8F520EFEED54B37A5 sha1 A3EBAB5B07A2B9A17AA68554072585BE8839ABA3 serial "T-9508G" )
+)
+game (
+	name "Sonic Wings Special (Japan)"
+	region "Japan"
+	serial "T-26402G"
+	rom ( name "Sonic Wings Special (Japan) (Track 1).bin" size 79782192 crc AB242DA6 md5 6AA17FE32A13F6FF31E66B5EA01D854F sha1 A517BB41A5487C25F4430F68A7AAC46009D1DF41 serial "T-26402G" )
+)
+game (
+	name "Soukyuu Gurentai (Japan)"
+	region "Japan"
+	serial "T-10616G"
+	rom ( name "Soukyuu Gurentai (Japan) (Track 01).bin" size 30761808 crc DD90B794 md5 2154B929BF3156735A082D0D550322A0 sha1 9F9513CD4FE0E42C8766FBC26B49453454FE3E22 serial "T-10616G" )
+)
+game (
+	name "Steam-Heart's (Japan)"
+	region "Japan"
+	serial "T-32502G"
+	rom ( name "Steam-Heart's (Japan) (Track 01).bin" size 228162816 crc 2AD4FEAC md5 A543BCD4A4F7E7A7450FA37CBC3EB6FC sha1 71CC4FC3E0613CC76C99392A2FA66CFA18FB05EF serial "T-32502G" )
+)
+game (
+	name "Street Fighter Alpha 2 (USA)"
+	region "USA"
+	serial "T-1213H"
+	rom ( name "Street Fighter Alpha 2 (USA) (Track 1).bin" size 465691296 crc 8C808CBF md5 B9BE89474D0256A0DF15D7D1C2256F1A sha1 7E7CBEF32B51D7D0A5132FE7E492C6726A7D3CB6 serial "T-1213H" )
+)
+game (
+	name "Street Fighter Zero 3 (Japan)"
+	region "Japan"
+	serial "T-1247G"
+	rom ( name "Street Fighter Zero 3 (Japan) (Track 1).bin" size 621937008 crc E10DC642 md5 E9088A83E44B0ED2500597328A1EB391 sha1 B1CC45650B526ED88A82EFCD315EE73E89A658D1 serial "T-1247G" )
+)
+game (
+	name "Tactics Ogre - Let Us Cling Together (Japan)"
+	region "Japan"
+	serial "T-5306G"
+	rom ( name "Tactics Ogre - Let Us Cling Together (Japan) (Track 01).bin" size 295430016 crc 6791DAD8 md5 5835038936B1EEF19063B1627C7F2E46 sha1 24CE1A059C7172065204F0B22B0C82FC7CCE53E3 serial "T-5306G" )
+)
+game (
+	name "Ten Pin Alley (USA)"
+	region "USA"
+	serial "T-13705H"
+	rom ( name "Ten Pin Alley (USA) (Track 01).bin" size 41870304 crc 7A11DB13 md5 CFE2D8D09A0B3ADCC0E45CE193CE40AB sha1 9E37C1B611A35E11C90ABD6FD65B1DFA00D4E517 serial "T-13705H" )
+)
+game (
+	name "Thunder Force Gold Pack 1 (Japan)"
+	region "Japan"
+	serial "T-1807G"
+	rom ( name "Thunder Force Gold Pack 1 (Japan) (Track 01).bin" size 35207088 crc 86D42DDE md5 63A56ABCFF166617772CDE6E1B9D7514 sha1 8F38894CFC979AFA94312E0563F70211ABC08930 serial "T-1807G" )
+)
+game (
+	name "Thunder Force Gold Pack 2 (Japan) (Rev A)"
+	region "Japan"
+	serial "T-1808G"
+	rom ( name "Thunder Force Gold Pack 2 (Japan) (Rev A) (Track 1).bin" size 533193696 crc B5768F38 md5 9482A6B9F2E70B2BFE174A76261CD079 sha1 58CC36B07E64E23BB00B3BC14DDBE7B657C88CE1 serial "T-1808G" )
+)
+game (
+	name "Twinkle Star Sprites (Japan) (Disc 1) (Game Disc)"
+	region "Japan"
+	serial "T-37301G"
+	rom ( name "Twinkle Star Sprites (Japan) (Disc 1) (Game Disc) (Track 01).bin" size 225222816 crc 1950ED15 md5 6C64F539E1E40994FCC9CE7906F423E7 sha1 99ED2270F48FA12F45C9BB85687C6847F465E436 serial "T-37301G" )
+)
+game (
+	name "Vandal Hearts - Ushinawareta Kodai Bunmei (Japan)"
+	region "Japan"
+	serial "T-9526G"
+	rom ( name "Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (Track 1).bin" size 594319824 crc 8FA97541 md5 398F6065E2225181CF396D779F74CBA6 sha1 BEDC213792D5050AF482A36F4A61D7A19CE75C2F serial "T-9526G" )
+)
+game (
+	name "Waku Waku 7 (Japan)"
+	region "Japan"
+	serial "T-1515G"
+	rom ( name "Waku Waku 7 (Japan) (Track 01).bin" size 35797440 crc 0ED785C6 md5 09C7D5B496CE0317E69858A08392078D sha1 2882FDE607F85FB659C9A5C53B750F6BB6F1C87B serial "T-1515G" )
+)
+game (
+	name "Willy Wombat (Japan)"
+	region "Japan"
+	serial "T-14306G"
+	rom ( name "Willy Wombat (Japan) (Track 01).bin" size 171018624 crc A62E1002 md5 447CDADFE4BC8A5FF3F80445A6754E8D sha1 7648C8E65DF732415365E9BC5A0FDC450AABC852 serial "T-14306G" )
+)
+game (
+	name "Wipeout XL (Japan)"
+	region "Japan"
+	serial "T-18619G"
+	rom ( name "Wipeout XL (Japan) (Track 01).bin" size 91659792 crc 8A1533F3 md5 72489581A7F518F1A98FFA2F6CB5B328 sha1 F81EEF996057DEE1CB06619E00D2F17FE5DC9420 serial "T-18619G" )
+)
+game (
+	name "Wolf Fang SS - Kuuga 2001 (Japan)"
+	region "Japan"
+	serial "T-26105G"
+	rom ( name "Wolf Fang SS - Kuuga 2001 (Japan) (Track 01).bin" size 69520416 crc BC982674 md5 BE6FCDFC8CF2746C1102ABA9263CB032 sha1 99E3CD2F56F874B4AAC3CC737624F5F98E2DCF16 serial "T-26105G" )
+)
