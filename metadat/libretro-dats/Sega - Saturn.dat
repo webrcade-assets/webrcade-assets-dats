@@ -3473,3 +3473,10 @@ game (
 	serial "T-26105G"
 	rom ( name "Wolf Fang SS - Kuuga 2001 (Japan) (Track 01).bin" size 69520416 crc BC982674 md5 BE6FCDFC8CF2746C1102ABA9263CB032 sha1 99E3CD2F56F874B4AAC3CC737624F5F98E2DCF16 serial "T-26105G" )
 )
+
+game (
+	name "Asuka 120% Limited - Burning Fest. Limited (Japan)"
+	region "Japan"
+	serial "T-16708G"
+	rom ( name "Asuka 120% Limited - Burning Fest. Limited (Japan) (Track 01).bin" size 62337408 crc 1DB11C62 md5 9F943972333E83A4D2C15CF0BB9F3434 sha1 1C21759864381DBC946A143E3527848FB35976D8 serial "T-16708G" )
+)
